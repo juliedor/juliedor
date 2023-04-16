@@ -6,6 +6,10 @@
 - SQL
 - Data visualization with Tableau
 
+## Contacts:
+✉️ shmykova.js@gmail.com
+
+📱[@juliashmykova](https://t.me/@juliashmykova)
 
 
 <!--
