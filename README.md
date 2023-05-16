@@ -1,5 +1,4 @@
-
-# Hi there, I'm Julia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi there, I'm Julia :) </h1>
 ## Product data analyst with experience in:
 
 - Data analysis with Python (pandas, matplotlib, seaborn, numpy, scipy libraries)
